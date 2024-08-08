@@ -34,12 +34,12 @@ The system provides a user-friendly interface for beneficiaries to register, man
 
 **Tech Stack**
 The proposed system will be built using a robust and reliable tech stack that ensures security, scalability, and ease of implementation.
-Component		          Technology
-Blockchain Platform	  Ethereum
-Smart Contracts		    Solidity
-Backend		            Flask
-Frontend		          React.js
-Hosting			          Vercel
+
+Blockchain Platform	:  Ethereum,
+Smart Contracts:		    Solidity,
+Backend:		            Flask,
+Frontend:		          React.js,
+Hosting:			          Vercel
 
 **Workflow**
 The system operates through a streamlined workflow that ensures secure and transparent distribution of program benefits.
