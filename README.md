@@ -25,11 +25,11 @@ The system's robust security features, including tamper-proof transaction logs, 
 The proposed solution is based on a comprehensive system that leverages blockchain technology to streamline and secure the distribution of essential food resources.
 User Registration:
 Users provide their personal information and undergo a verification process based on predefined eligibility criteria. Upon successful verification, they receive a unique authorization ID.
-1.ID Generation:
+1. ID Generation:
 Leveraging blockchain technology, the system generates unique and secure authorization IDs that are stored on the blockchain, ensuring immutability and security. This eliminates the possibility of duplication or alteration of IDs.
-2.Transaction Logging:
+2. Transaction Logging:
 Every transaction is recorded on the blockchain, creating a tamper-proof and verifiable record that can be accessed by all stakeholders. This enhances transparency and accountability, allowing beneficiaries, program administrators, and the public to track the distribution of program resources and ensure fairness and legitimacy.
-3.User Interface:
+3. User Interface:
 The system provides a user-friendly interface for beneficiaries to register, manage their authorization IDs, and track their transaction history. A separate interface allows government officials to monitor transactions, manage program parameters, and ensure the overall integrity of the system.
 
 **Tech Stack**
@@ -43,11 +43,11 @@ Hosting:			          Vercel
 
 **Workflow**
 The system operates through a streamlined workflow that ensures secure and transparent distribution of program benefits.
-1.User Registration
+1. User Registration
 Users provide their personal information and undergo a verification process based on predefined eligibility criteria. Upon successful verification, they receive a unique authorization ID. The system leverages secure authentication measures to verify user identities and prevent fraud.
-2.Grocery Purchase
+2. Grocery Purchase
 Users present their authorization IDs at participating grocery stores. The system verifies the ID, ensuring that it is valid and that the user is eligible for program benefits. Once verified, the transaction is recorded on the blockchain.
-3.Transaction Monitoring
+3. Transaction Monitoring
 Government officials can access the transaction logs on the blockchain, allowing them to monitor the distribution process, track program usage, and ensure the integrity of the system. This provides real- time insights into program effectiveness and identifies potential irregularities.
 
 
